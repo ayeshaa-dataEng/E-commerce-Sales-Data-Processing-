@@ -1,0 +1,14 @@
+{
+  "source_order_lines": 9994,
+  "source_customers": 793,
+  "source_product_rows": 1851,
+  "unique_product_ids": 1818,
+  "order_lines_with_missing_product": 204,
+  "missing_product_ids": 44,
+  "profit_by_year": {
+    "2014": 39185.75,
+    "2015": 63073.09,
+    "2016": 65073.23,
+    "2017": 111084.96
+  }
+}
